@@ -1,0 +1,18 @@
+GET http://localhost:8084/pays
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8084/resources
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8084/resources
+Accept: */*
+Cache-Control: no-cache
+
+###
+
